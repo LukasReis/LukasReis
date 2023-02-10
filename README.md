@@ -17,10 +17,11 @@
 ##
 
 <div>
-    <a herf="www.linkedin.com/in/lucas-reis-113479224" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    <a herf="/www.instagram.com/luke_reis" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    <a herf="https://discord.gg/6122" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-    <a herf="mailto: luke.silvareis@hotmail.com" target=_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-reis-113479224)
+[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luke_reis/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@6122)
+[![Discord](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://https://outlook.live.com/mail/luke.silvareis@hotmail.com)
 </div>
 
 ### Apaixonado por todas as formas de tecnologia e disposto a fazer de tudo para transforar a vida das pessoas através da programação
